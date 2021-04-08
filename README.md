@@ -19,7 +19,7 @@ Usage:
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
-        <com.orcchg.flatradiogroup.design.view.FlatRadioGroup
+        <com.orcchg.flatradiogroup.FlatRadioGroup
             android:id="@+id/radio_group"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
